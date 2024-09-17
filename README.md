@@ -12,7 +12,8 @@ Também vimos como devemos colaborar em projetos open source.
 ## Criando máquinas Virtuais na Azure
 Até aqui já aprendemos como criar maquinas virtuais na nuvem da azure e algumas das opções de criação das mesmas
 
-
+## Configurando uma instância de banco de dados na nuvem
+Arendemos como criar um banco de dados na azure
 
 
 
