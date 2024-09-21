@@ -23,6 +23,9 @@ grupo de recursos e realizamos um overview no painal do azure
 As diferenças entre os tipos de armazenamento que o azure oferece as forams de uso para envio do dados com baixa capacidade de dados e com uma grande capacidade e as formas de envio com o azcopy.
 Também a sua durabilidade e as formas de armazenamento E AS nomeclaturas publicas.
 
-
+## Microsoft Entra ID e Defender
+No microsoft entra ID vimos as formas de configuração de autorização e de maneiras de login interno e externo como convidados com outros logins de clouds parceiras
+criação de grupos e regras especificas para qualquer recusro do cloud.
+Microsoft defender e suas maneiras de verificação na nuvem e no onprimesse enviando tudo para o painel de control do defender incluindo aws, gcp, github, gitlab para devops.
 
 
