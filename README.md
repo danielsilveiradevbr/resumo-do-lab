@@ -19,6 +19,9 @@ Aprendemos como criar um banco de dados na azure
 Aprendemos sobre vnet e seu emparelhamanto par auma comunicação entre vnet. Recursos de criação de vm e vm padrões
 grupo de recursos e realizamos um overview no painal do azure
 
+## Dominando o Armazenamento na Azure
+As diferenças entre os tipos de armazenamento que o azure oferece as forams de uso para envio do dados com baixa capacidade de dados e com uma grande capacidade e as formas de envio com o azcopy.
+Também a sua durabilidade e as formas de armazenamento E AS nomeclaturas publicas.
 
 
 
