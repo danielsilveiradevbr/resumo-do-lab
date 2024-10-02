@@ -28,4 +28,9 @@ No microsoft entra ID vimos as formas de configuração de autorização e de ma
 criação de grupos e regras especificas para qualquer recusro do cloud.
 Microsoft defender e suas maneiras de verificação na nuvem e no onprimesse enviando tudo para o painel de control do defender incluindo aws, gcp, github, gitlab para devops.
 
+## Microsoft Coastmanagment + billing
+Como funciona a parte de custos e o que influência nos custos dos recursos.
+A importancia das marcas para a identificação dos custos dentro da fatura do azure.
+A criação das marcas e de regras de avisos de custos elevados.
+
 
