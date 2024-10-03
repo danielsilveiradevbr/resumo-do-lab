@@ -33,4 +33,8 @@ Como funciona a parte de custos e o que influência nos custos dos recursos.
 A importancia das marcas para a identificação dos custos dentro da fatura do azure.
 A criação das marcas e de regras de avisos de custos elevados.
 
+## Microsoft policy bloqueios e Purview
+Um review de como criar as policy e de como usar o remediation além de suas permissões.
+Os tipos de bloqueio read-only ou delete e que são bloqueios herdaveis.
+E a parte de governança com o purview e suas utilidades quanto a certificações e adequações a regras especificas no que le pode nos ajudar.
 
