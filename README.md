@@ -38,3 +38,8 @@ Um review de como criar as policy e de como usar o remediation além de suas per
 Os tipos de bloqueio read-only ou delete e que são bloqueios herdaveis.
 E a parte de governança com o purview e suas utilidades quanto a certificações e adequações a regras especificas no que le pode nos ajudar.
 
+## Microsoft ARC, ARM e Bicep
+Como funciona a parte de orquestração do microsft ARM que interpreta nosso pedidos e realiza as criações de recursos dentro do azure tanto via portal como scripts e rest.
+ARC e como administrar recursos da azure, AWS, GCP e onprimise dentro de um só local.
+E a linguagem que facilita a criação de recursos a Bicep.
+
