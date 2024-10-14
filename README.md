@@ -43,3 +43,8 @@ Como funciona a parte de orquestração do microsft ARM que interpreta nosso ped
 ARC e como administrar recursos da azure, AWS, GCP e onprimise dentro de um só local.
 E a linguagem que facilita a criação de recursos a Bicep.
 
+## Monitoramento no Azure
+Entendemos com ofunciona a parte de monitoramento no Azure e sua importância, vimos sobre o Azure Monitor,
+Integridade dos serviços e resource health. 
+Um overview do painel de monitoramento e como criar alertas.
+
